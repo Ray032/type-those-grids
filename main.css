@@ -1,0 +1,24 @@
+element.style {
+  }
+html {
+  box-sizing: border-box;
+    font-family: Merriweather, serif;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-ca";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
